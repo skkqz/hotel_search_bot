@@ -24,12 +24,17 @@
     /history — вывод истории поиска отелей
     /help — помощь по командам бота
 
-    1. Выбрать одну из команд для поиска отелей (/lowprice, /highprice. /bestdeal)
-    2. Введите нужный город для поиска отелей
-    ![ввод города](https://github.com/skkqz/hotel_search_bot/blob/main/image/1.bmp)
-    3. Выбрать количество отелей для вывода
-    4. Выбрать количество фотографий отеля для просмотра
-    5. Выбрать дату заезда и выезда из отеля
-    6. Введите диапазон цен за сутки через пробел (пример ввода: 1000 5000)
-    7. Введите диапазон расстояния в км от центра города через пробел (пример ввода: 1 5)
-    8. Результат поиска
+1. Выбрать одну из команд для поиска отелей (/lowprice, /highprice. /bestdeal)
+2. Введите нужный город для поиска отелей
+3. Выбрать количество отелей для вывода
+4. Выбрать количество фотографий отеля для просмотра
+![](https://github.com/skkqz/hotel_search_bot/blob/main/image/1.bmp)
+5. Выбрать дату заезда и выезда из отеля
+![](https://github.com/skkqz/hotel_search_bot/blob/main/image/2.bmp)
+![](https://github.com/skkqz/hotel_search_bot/blob/main/image/3.bmp)
+6. Введите диапазон цен за сутки через пробел (пример ввода: 1000 5000)
+7. Введите диапазон расстояния в км от центра города через пробел (пример ввода: 1 5)
+![](https://github.com/skkqz/hotel_search_bot/blob/main/image/4.bmp)
+8. Результат поиска
+![](https://github.com/skkqz/hotel_search_bot/blob/main/image/5.bmp)
+![](https://github.com/skkqz/hotel_search_bot/blob/main/image/6.bmp)
