@@ -26,7 +26,7 @@
 
     1. Выбрать одну из команд для поиска отелей (/lowprice, /highprice. /bestdeal)
     2. Введите нужный город для поиска отелей
-   ![ввод города](https://github.com/skkqz/hotel_search_bot/blob/main/image/1.bmp)
+    ![ввод города](https://github.com/skkqz/hotel_search_bot/blob/main/image/1.bmp)
     3. Выбрать количество отелей для вывода
     4. Выбрать количество фотографий отеля для просмотра
     5. Выбрать дату заезда и выезда из отеля
