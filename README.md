@@ -15,7 +15,7 @@
       <li>Сохранение истории поиска</li>
       <li>Расчет стоимости проживания по указанным датам</li>
   
-  Источник информации для бота - API сайта [Hotels.com](https://www.hotels.com/?locale=en_IE&pos=HCOM_EMEA&siteid=300000025)
+  *Источник информации для бота - API сайта* [Hotels.com](https://www.hotels.com/?locale=en_IE&pos=HCOM_EMEA&siteid=300000025)
   
 
 Применение
